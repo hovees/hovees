@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm hovees! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <!--
 **hovees/hovees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
