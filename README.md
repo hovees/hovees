@@ -1,5 +1,5 @@
 ## Hi, I'm hovees! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<img src="https://github.com/hovees/hovees/blob/master/cat.gif" width="60">
+<img src="https://github.com/hovees/hovees/blob/master/cat.gif" width="200">
 
 
 <!--
